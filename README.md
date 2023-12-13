@@ -1,2 +1,3 @@
-# ds24-workshop-2
-Similar products matching
+# Поиск похожих товаров с помощью FAISS
+
+Это учебный проект.
