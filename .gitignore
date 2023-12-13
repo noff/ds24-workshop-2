@@ -1,0 +1,5 @@
+.idea
+data/*.csv
+.DS_store
+model.index
+model-1.index
