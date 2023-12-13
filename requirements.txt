@@ -2,7 +2,7 @@
 # Usage: pip install -r requirements.txt
 
 # Версии не фиксирую, чтобы не разбираться в актуальности
-Flask
-faiss
+flask
+faiss-cpu
 pandas
 scikit-learn
