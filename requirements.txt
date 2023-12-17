@@ -3,6 +3,6 @@
 
 # Версии не фиксирую, чтобы не разбираться в актуальности
 flask
-faiss-cpu
+faiss
 pandas
 scikit-learn
